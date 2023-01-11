@@ -8,6 +8,8 @@ header:
    image_fullwidth  : "header_homepage_13.jpg"
 permalink           : "/events/ancient-gate/"
 ---
+[en](/events/ancient-gates_en)
+---
 ## Ancient Gate
 Total game time: **~30 minutes**<br>
 
