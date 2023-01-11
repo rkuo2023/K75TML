@@ -3,7 +3,9 @@
   side: left
   dropdown:
   - title: "Getting Started"
-    url: "/getting-started/"  
+    url: "/events/getting-started_en/"  
+  - title: "ゲームの設置"
+    url: "/events/getting-started_/"     
 
 - title: "Game Guides"
   url: "/game-guides/"
