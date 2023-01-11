@@ -7,7 +7,7 @@
   side: left
   dropdown:
   - title: "English"
-    url: "/game-guides_en/"
+    url: "/design/game-guides_en/"
 
 - title: "Event Guides"
   url: "/ancient-gate/"
@@ -20,15 +20,19 @@
   - title: "Tidelands"
     url: "/tidelands/"
 
-- title: Documentation
-  url: "/documentation/"
+- title: Combat Tactics
+  url: "/design/solo-attack/"
   side: left
   dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
-
+  - title: "Solo Attack"
+    url: "/design/solo-attack/"
+  - title: "Group Attack"
+    url: "/design/group-attack/"  
+  - title: "Self Defense"
+    url: "/design/self-defense/"
+  - title: "group-defense"
+    url: "/design/group-defense/"     
+ 
 - title: Blog
   url: "/blog/"
   side: left
