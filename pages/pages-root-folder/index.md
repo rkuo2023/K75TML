@@ -12,18 +12,18 @@ widget1:
   url: 'http://rkuo2023.github.io/k55o4a/game-guides/'
   image: widget-1-302x182.jpg
   text: 'Game guides for players'
-  video: '<iframe width="439" height="246" src="https://www.youtube.com/embed/bMkINbwzslw" title="Misty Continent: Cursed Island Tips" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
+  video: '<iframe width="220" height="123" src="https://www.youtube.com/embed/bMkINbwzslw" title="Misty Continent: Cursed Island Tips" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
 widget2:
   title: "Event Guides"
   url: 'http://rkuo2023.github.io/k55o4a/ancient-gate/'
   text: '<em>Main Events</em>: <br/>1. Ancient Gate :)<br/>2. Specter Raid <br/>3. Tidelands <br/>...'
-  video: '<iframe width="439" height="246" src="https://www.youtube.com/embed/EtbQdr0v1CE" title="Misty Continent - Completely Broken event - Tidelands  [Eng Version]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
+  video: '<iframe width="220" height="123" src="https://www.youtube.com/embed/EtbQdr0v1CE" title="Misty Continent - Completely Broken event - Tidelands  [Eng Version]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
 widget3:
   title: "Combat Tactics"
   url: 'http://rkuo2023.github.io/k55o4a/combat-tactics/'
   image: widget-github-303x182.jpg
   text: '<em>Combat Tactics</em>: <br/>1. Solo-Attack :)<br/>2. Rally-Attack <br/>3. Self-Defense <br/>4. Grouip-Defense <br/>...'
-  video: '<iframe width="439" height="246" src="https://www.youtube.com/embed/oYjoYuiQ9Bc" title="Misty Continent - PVP [Every player should know] (Eng Version)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
+  video: '<iframe width="220" height="123" src="https://www.youtube.com/embed/oYjoYuiQ9Bc" title="Misty Continent - PVP [Every player should know] (Eng Version)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
 #
 # Use the call for action to show a button on the frontpage
 #
