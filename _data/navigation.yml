@@ -7,7 +7,7 @@
   side: left
   dropdown:
   - title: "English"
-    url: "/design/game-guides_en/"
+    url: "/game-guides_en/"
 
 - title: "Header Styles"
   url: "/headers/"
