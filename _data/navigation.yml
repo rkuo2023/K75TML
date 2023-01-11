@@ -10,7 +10,7 @@
   side: left
   dropdown:
   - title: "English"
-    url: "/design/game-guides_en/"
+    url: "/guides/game-guides_en/"
 
 - title: "Event Guides"
   url: "/events/ancient-gate/"
