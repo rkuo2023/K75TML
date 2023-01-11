@@ -4,6 +4,10 @@
   dropdown:
   - title: "Getting Started"
     url: "/getting-started_en/"  
+  - title: "Empezando"
+    url: "/getting-started_es/"  
+  - title: "Einstieg"
+    url: "/getting-started_de/"      
   - title: "ゲームの設置"
     url: "/getting-started_jp/"     
 
