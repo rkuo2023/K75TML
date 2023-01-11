@@ -36,12 +36,12 @@
   - title: "group-defense"
     url: "/design/group-defense/"     
  
-- title: Blog
-  url: "/blog/"
+- title: FAQ
+  url: "/faq/"
   side: left
   dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+  - title: "English"
+    url: "/faq/faq_en/"
 
 - title: "Search"
   url: "/search/"
