@@ -6,22 +6,24 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: header_homepage_13.jpg
 widget1:
-  title: "Blog & Portfolio"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  title: "Game Guides"
+  url: 'http://rkuo2023.github.io/k55o4a/game-guides/'
   image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  text: 'Game guides for players'
+  video: '<iframe width="439" height="246" src="https://www.youtube.com/embed/bMkINbwzslw" title="Misty Continent: Cursed Island Tips" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
 widget2:
-  title: "Why use this theme?"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  title: "Event Guides"
+  url: 'http://rkuo2023.github.io/k55o4a/ancient-gate/'
+  text: '<em>Main Events</em>: <br/>1. Ancient Gate :)<br/>2. Specter Raid <br/>3. Tidelands <br/>...'
+  video: '<iframe width="439" height="246" src="https://www.youtube.com/embed/EtbQdr0v1CE" title="Misty Continent - Completely Broken event - Tidelands  [Eng Version]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
 widget3:
-  title: "Download Theme"
-  url: 'https://github.com/Phlow/feeling-responsive'
+  title: "Combat Tactics"
+  url: 'http://rkuo2023.github.io/k55o4a/combat-tactics/'
   image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. The code is well-documented and explains you how it works.'
+  text: '<em>Combat Tactics</em>: <br/>1. Solo-Attack :)<br/>2. Rally-Attack <br/>3. Self-Defense <br/>4. Grouip-Defense <br/>...'
+  video: '<iframe width="439" height="246" src="https://www.youtube.com/embed/oYjoYuiQ9Bc" title="Misty Continent - PVP [Every player should know] (Eng Version)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -33,8 +35,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
+  url: https://discord.gg/tG9kQ3G9
+  text: Chatrooom - discord.gg/tG9kQ3G9
   style: alert
 permalink: /index.html
 #
