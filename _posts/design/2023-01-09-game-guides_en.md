@@ -6,7 +6,7 @@ subheadline         : "Basic Game Guides"
 teaser              : "These instructions help you to grow quicker!"
 header:
    image_fullwidth  : "header_homepage_13.jpg"
-permalink           : "/getting-started/"
+permalink           : "/design/game-guides_en/"
 ---
 ### Growth
 1. Keep training soldiers (Never stop adding troops)!
