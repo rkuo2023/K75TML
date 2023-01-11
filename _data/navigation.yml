@@ -10,15 +10,15 @@
     url: "/game-guides_en/"
 
 - title: "Event Guides"
-  url: "/event-guides/"
+  url: "/ancient-gate/"
   side: left
   dropdown:
   - title: "Ancient Gate"
-    url: "/design/ancient-gate/"
+    url: "/ancient-gate/"
   - title: "Specer Raid"
-    url: "/design/specter-raid/"
+    url: "/specter-raid/"
   - title: "Tidelands"
-    url: "/design/tidelands/"
+    url: "/tidelands/"
 
 - title: Documentation
   url: "/documentation/"
