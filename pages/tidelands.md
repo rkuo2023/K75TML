@@ -6,7 +6,7 @@ subheadline         : "Game Events"
 teaser              : "Game guide for new players !"
 header:
    image_fullwidth  : "header_homepage_13.jpg"
-permalink           : "/design/"
+permalink           : "/tidelands/"
 ---
 ### Tidelands
 Alliance vs Alliance from different Kingdom
