@@ -40,7 +40,7 @@ improve_content: https://github.com/rkuo2023/k55o4a/edit/gh-pages
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
 #urlimg: 'https://phlow.github.io/feeling-responsive/images/'
-urlimg: 'https://github.com/rkuo2023/k55o4a/tree/gh-pages/images/'
+urlimg: 'https://rkuo2023.github.io/k55o4a/images/'
 
 
 # Logo size is 600x80 pixels
