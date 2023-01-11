@@ -35,8 +35,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://discord.gg/tG9kQ3G9
-  text: Chatrooom - discord.gg/tG9kQ3G9
+  url: https://discord.gg/7dbxFfVD
+  text: Chatrooom - discord.gg/7dbxFfVD
   style: alert
 permalink: /index.html
 #
