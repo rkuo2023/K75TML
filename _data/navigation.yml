@@ -9,24 +9,16 @@
   - title: "English"
     url: "/game-guides_en/"
 
-- title: "Header Styles"
-  url: "/headers/"
+- title: "Event Guides"
+  url: "/event-guides/"
   side: left
   dropdown:
-  - title: "Header with Full-Width-Image"
-    url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
-    url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
-    url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
+  - title: "Ancient Gate"
+    url: "/design/ancient-gate/"
+  - title: "Specer Raid"
+    url: "/design/specter-raid/"
+  - title: "Tidelands"
+    url: "/design/tidelands/"
 
 - title: Documentation
   url: "/documentation/"
