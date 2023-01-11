@@ -21,7 +21,7 @@ image:
     thumb: K55-O4A-thumb.jpg
     homepage: K55-O4A-home.jpg
     caption: Photo by Arishem
-    caption_url: https://github.com/rkuo2023/k55o4a
+    caption_url: https://rkuo2023.github.io/k55o4a/images
 mediaplayer: true
 ---
 ### Basic Tips
