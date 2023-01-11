@@ -46,3 +46,6 @@ mediaplayer: true
 ---
 ### Alliance Cruch Chanllenges
 <iframe width="877" height="395" src="https://www.youtube.com/embed/SlzqhBIAh9Q" title="Alliance Crunch Challenges Screen Explained - Misty Continent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br>
+<br>
