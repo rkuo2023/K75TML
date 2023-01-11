@@ -1,6 +1,9 @@
 - title: Start
   url: "/"
   side: left
+  dropdown:
+  - title: "Getting Started"
+    url: "/getting-started/"  
 
 - title: "Game Guides"
   url: "/game-guides/"
@@ -10,15 +13,15 @@
     url: "/design/game-guides_en/"
 
 - title: "Event Guides"
-  url: "/ancient-gate/"
+  url: "/events/ancient-gate/"
   side: left
   dropdown:
   - title: "Ancient Gate"
-    url: "/ancient-gate/"
+    url: "/events/ancient-gate/"
   - title: "Specter Raid"
-    url: "/specter-raid/"
+    url: "/events/specter-raid/"
   - title: "Tidelands"
-    url: "/tidelands/"
+    url: "/event/stidelands/"
 
 - title: Combat Tactics
   url: "/design/solo-attack/"
