@@ -41,7 +41,11 @@
     url: "/design/self-defense/"
   - title: "group-defense"
     url: "/design/group-defense/"     
- 
+    
+- title: Video
+  url: "/design/mediaelement_js.md"
+  side: left
+  
 - title: FAQ
   url: "/faq/"
   side: left
