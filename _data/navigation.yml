@@ -13,7 +13,9 @@
   - title: "Başlarken"
     url: "/getting-started_tr/"      
   - title: "ゲームの設置"
-    url: "/getting-started_jp/"     
+    url: "/getting-started_jp/" 
+  - title: "如何開始"
+    url: "/getting-started_zh/"     
 
 - title: "Game Guides"
   url: "/game-guides/"
