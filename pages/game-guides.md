@@ -19,12 +19,12 @@ permalink           : "/game-guides/"
 8. **Daily**: Buy all stuffs at **Mining Loot of ABYSSAL MINES** (C16)
 10. Participate events in Event Center
 11. **Recruiting Heroes**: recruiting in **Master** mode (5 draws-at-once) to get a golden and purple hero !
-12. **Event: Ancient Gate** do it every other day, the purple gold is for building your equipments (helmet, armour, boots, ...)
+12. **Event: Ancient Gate** do it every other day, the crimson gold is for building your equipments (helmet, armour, boots, ...)
 
 ---
 ### Protection / Defense
 1. **Keep most of your resources in Inventory** (so resources won't drop by attack)
-2. Keep your warehouse 10+, lvl 10 warehouse protect 1M foods & crystals.
+2. Level up your warehouse to 10+, lvl 10 warehouse protect 1M foods & crystals.
 3. Max level of your hospital, add research hospital capacity, add talent points for hospital capacity
 4. No Alliance Hospital ! (It is costly and take forever to get cured from Alliance Hospital)
 5. Level up your **HALL of WAR** if you want to rally with more members!
@@ -32,7 +32,7 @@ permalink           : "/game-guides/"
 7. Protect your troops by sending them to **Alliance Foretress** or **Alliance Mine**!
 
 ---
-### DO NOT 
+### Prohibit 
 * **DO NOT** **Scout** a player unless you want to start a war with the player. **Scout** is an act of war in this game !
 * **DO NOT** **Send troop** to a resource tile occupied or going-to-be-occupied by a player, you are **attacking** the player if you did.
 
