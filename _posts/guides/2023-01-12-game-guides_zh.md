@@ -37,8 +37,8 @@ permalink           : "/guides/game-guides_zh/"
 * **禁止** 派送軍隊至一個已經或將要被玩家占領的礦位, 你這樣將會對該位玩家進行攻擊 !
 
 ---
-### [Questions & Answers](https://rkuo2023.github.io/k55o4a/design/mediaelement_js/)
-對於本網頁的疑問,請貼文至 [K55O4A pulls](https://github.com/rkuo2023/k55o4a/pulls).<br>
+### [問題&回答](https://rkuo2023.github.io/k55o4a/design/mediaelement_js/)
+若有疑問,請貼文至 [K55O4A pulls](https://github.com/rkuo2023/k55o4a/pulls).<br>
 
 ---
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/design/mediaelement_js/">提示與技巧的相關影片...請點閱!</a>
