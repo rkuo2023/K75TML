@@ -30,17 +30,17 @@
     url: "/event/tidelands/"
 
 - title: Combat Tactics
-  url: "/design/solo-attack/"
+  url: "/tactics/solo-attack/"
   side: left
   dropdown:
   - title: "Solo Attack"
-    url: "/design/solo-attack/"
+    url: "/tactics/solo-attack/"
   - title: "Group Attack"
-    url: "/design/group-attack/"  
+    url: "/tactics/group-attack/"  
   - title: "Self Defense"
-    url: "/design/self-defense/"
+    url: "/tactics/self-defense/"
   - title: "group-defense"
-    url: "/design/group-defense/"     
+    url: "/tactics/group-defense/"     
     
 - title: Video
   url: "/design/mediaelement_js/"
