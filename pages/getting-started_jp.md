@@ -27,5 +27,3 @@ permalink           : "/getting-started_jp/"
 ## パソコン
 ### [BlueStacks を使用して PC の Misty Continent: Cursed Island でゲームプレイを最適化する](https://www.bluestacks.com/blog/game-guides/misty-continent/mcci-features-guide-en.html)
 ![](https://cdn-www.bluestacks.com/bs-images/Misty-Continent-Cursed-Island_BlueStacks-Usage_EN_1.png)
-
- [1]: {{ site.url }}{{ site.baseurl }}/documentation/
