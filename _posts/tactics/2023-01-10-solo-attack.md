@@ -6,7 +6,7 @@ subheadline         : "Combat Tactics"
 teaser              : "How to do solo-attack ?"
 header:
    image_fullwidth  : "header_homepage_13.jpg"
-permalink           : "/design/solo-attack/"
+permalink           : "/tactics/solo-attack/"
 ---
 ### Troop Build
 1. Keep training soldiers (Never stop adding troops)!
