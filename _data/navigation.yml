@@ -21,9 +21,21 @@
   url: "/game-guides/"
   side: left
   dropdown:
-  - title: "English"
-    url: "/guides/game-guides_en/"
-
+  - title: "Game Guides"
+    url: "/guides/game-guides_en/" 
+  - title: "Guías de juego"
+    url: "/guides/game-guides_es/"  
+  - title: "Spielanleitungen"
+    url: "/guides/game-guides_de/"
+  - title: "Guide di gioco"
+    url: "/guides/game-guides_it/"     
+  - title: "Oyun rehberleri"
+    url: "/guides/game-guides_tr/"      
+  - title: ゲームガイド"
+    url: "/guides/game-guides_jp/" 
+  - title: "遊戲指南"
+    url: "/guides/game-guides_zh/" 
+    
 - title: "Event Guides"
   url: "/events/ancient-gate/"
   side: left
