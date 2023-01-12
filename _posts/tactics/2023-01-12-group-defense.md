@@ -1,7 +1,7 @@
 ---
 layout              : page
 show_meta           : false
-title               : "Grouip-Defense"
+title               : "Group-Defense"
 subheadline         : "Combat Tactics"
 teaser              : "How to do group-defense?"
 header:
