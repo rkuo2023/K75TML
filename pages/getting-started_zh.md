@@ -1,7 +1,7 @@
 ---
 layout              : page
 show_meta           : false
-title               : "開始"
+title               : "如何開始"
 subheadline         : "遊戲安裝"
 teaser              : "請參加 K55 O4A 聯盟!"
 header:
@@ -9,7 +9,7 @@ header:
 permalink           : "/getting-started_zh/"
 
 ---
-## 開始玩
+## 啟動遊戲
 ### 選擇 王國 #55 來跟我們一起玩 !
 1. 到App 商店, 搜尋 **迷霧大陸-詛咒島** 並進行安裝 
 2. 選擇  **王國 #55** 開始新的遊戲 !
