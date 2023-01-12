@@ -19,7 +19,7 @@ permalink           : "/guides/game-guides_en/"
 8. **Daily**: Buy all stuffs at **Mining Loot of ABYSSAL MINES** (C16)
 9. Participate events in Event Center
 10. **Recruiting Heroes**: recruiting in **Master** mode (5 draws-at-once) to get a golden and purple hero !
-11. **Etkinlik: Antik Kapı** bunu gün aşırı yapın, kızıl altın, ekipmanlarınızı (kask, zırh, botlar, ...) inşa etmek içindir.
+11. Event: Ancient Gate do it every other day, the purple gold is for building your equipments (helmet, armour, boots, ...)
 
 ---
 ### Protection / Defense
