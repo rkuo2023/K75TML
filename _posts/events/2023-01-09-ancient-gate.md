@@ -27,6 +27,7 @@ Total game time: **~30 minutes**<br>
 ### For R4/R5
 1. Fix a time for this every other day event, and Send event notice 1 day earlier.
 2. R4/R5 can open the Gate and select a boss to engage
+  ![](https://github.com/rkuo2023/k55o4a/blob/gh-pages/images/Ancient-Gates-open.jpg?raw=true)
 3. Person who open the Gate will hold the 1st rally, then a R4 should rally after that right away
 4. Wait and watch if both rallies get fill up, then rally another if necessary
 5. You can rally first, cancel rally when you see no one join, **Cancel rally** and join the other rally **a minute before** marching starts
