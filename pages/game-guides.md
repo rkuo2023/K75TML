@@ -41,7 +41,7 @@ permalink           : "/game-guides/"
 Post your requests on [K55O4A pulls](https://github.com/rkuo2023/k55o4a/pulls).<br>
 
 ---
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Check out the documentation for all the tricks</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/design/mediaelement_js/">Check out the Videos for Tips & Tricks</a>
 
 
  [1]: {{ site.url }}{{ site.baseurl }}/design/mediaelement_js/
