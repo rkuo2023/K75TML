@@ -37,7 +37,4 @@ Total raid level: 20 <br>
 1. In Lv10 and Lv20 attack, highest power member should lead Foretress Defense, which will result a better reward.
 
 ---
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Check out the documentation for all the tricks (To-Be-Implemented !!!) ›</a>
-
-
- [1]: {{ site.url }}{{ site.baseurl }}/documentation/
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/design/mediaelement_js/">Check out the Videos for Tips & Tricks</a>
