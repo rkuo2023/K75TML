@@ -36,7 +36,4 @@ Total game time: **~30 minutes**<br>
 8. Last minute rally (to make up 5 rounds), for those who missed the 4th rally, just jump in to the 5th rally if there is one.
 
 ---
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Check out the documentation for all the tricks (To-Be-Implemented !!!) ›</a>
-
-
- [1]: {{ site.url }}{{ site.baseurl }}/documentation/
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/design/mediaelement_js/">Check out the Videos for Tips & Tricks</a>
