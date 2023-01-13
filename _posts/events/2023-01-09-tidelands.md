@@ -20,7 +20,4 @@ Alliance vs Alliance from different Kingdom
 To-be-dislosed in **K55 O4A** alliance, please join us !!!
 
 ---
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Check out the documentation for all the tricks (To-Be-Implemented !!!) ›</a>
-
-
- [1]: {{ site.url }}{{ site.baseurl }}/documentation/
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/design/mediaelement_js/">Check out the Videos for Tips & Tricks</a>
