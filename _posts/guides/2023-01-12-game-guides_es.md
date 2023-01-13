@@ -15,8 +15,8 @@ permalink           : "/guides/game-guides_es/"
 4. **Diariamente**: ¡Haz una donación de Alianza! (Investigación de la alianza que impulsará a todos).
 5. **Diariamente**: realiza **Misión diaria y Misiones principales** para obtener más recompensas.
 6. **Diariamente**: Haz **Celestial Globe** para recompensas de exp, aceleración...
-7. **Diario**: compre todos los productos en **Catacombs Trader of Ancient Tombs**
-8. **Diario**: compre todos los productos en **Mining Loot of ABYSSAL MINES** (C16)
+7. **Diario**: compre todos los productos en **Comerciante de catacumbas de tumbas antiguas**
+8. **Diario**: compre todos los productos en **Minería Botín de MINAS ABISALES** (C16)
 9. Participar en eventos en Event Center
 10. **Reclutando héroes**: ¡reclutando en modo **Maestro** (5 sorteos a la vez) para obtener un héroe dorado y morado!
 11. **Evento: Puerta antigua** hazlo cada dos días, el oro carmesí es para construir tus equipos (casco, armadura, botas, ...)!
