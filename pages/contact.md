@@ -3,7 +3,10 @@ layout              : page
 title               : "Contact"
 meta_title          : "Contact and use our contact form"
 subheadline         : "Contact Form"
-teaser              : "Get in touch with me? Use the contact form."
+teaser              : "Get in touch with me? rkuo2023@gmail.com"
 permalink           : "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use the free version of [Wufoo](http://www.wufoo.com/)
+
+### [Github](https://github.com/rkuo2023/k55o4a)
+
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/design/mediaelement_js/">Check out the Videos for Tips & Tricks</a>
