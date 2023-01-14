@@ -15,7 +15,7 @@ tags:
 #
 # Styling
 #
-header: no
+header: yes
 image:
     title: K55-O4A-title.jpg
     thumb: K55-O4A-thumb.jpg
@@ -46,6 +46,10 @@ mediaplayer: true
 ---
 ### Alliance Cruch Chanllenges
 <iframe width="877" height="395" src="https://www.youtube.com/embed/SlzqhBIAh9Q" title="Alliance Crunch Challenges Screen Explained - Misty Continent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+### Gemstones
+<iframe width="532" height="293" src="https://www.youtube.com/embed/m3uAIvuvHJw" title="Misty Continent - Gemstones" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 <br>
