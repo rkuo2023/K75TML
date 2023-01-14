@@ -50,7 +50,8 @@ mediaplayer: true
 ---
 ### Gemstones
 <iframe width="877" height="395" src="https://www.youtube.com/embed/MaMUZIPUZ6M" title="Gemstones First Look (Part 1) - Misty Continent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<iframe width="877" height="395" src="https://www.youtube.com/embed/Cm5dTXj3qsE" title="Gemstones First Look (Part 2) - Misty Continent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="877" height="395" src="https://www.youtube.com/embed/Q4B--arKUCo" title="Gemstones First Look (Part 3) - Misty Continent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 <br>
