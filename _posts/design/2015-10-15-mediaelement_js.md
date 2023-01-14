@@ -49,7 +49,8 @@ mediaplayer: true
 
 ---
 ### Gemstones
-<iframe width="532" height="293" src="https://www.youtube.com/embed/m3uAIvuvHJw" title="Misty Continent - Gemstones" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="877" height="395" src="https://www.youtube.com/embed/MaMUZIPUZ6M" title="Gemstones First Look (Part 1) - Misty Continent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 <br>
 <br>
