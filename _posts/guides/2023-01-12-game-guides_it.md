@@ -8,6 +8,17 @@ header:
    image_fullwidth  : "header_homepage_13.jpg"
 permalink           : "/guides/game-guides_it/"
 ---
+### Difesa
+1. **Mantieni la maggior parte delle tue risorse nell'inventario** (in modo che le risorse non cadano a causa di un attacco)
+2. Mantieni il tuo magazzino 10+, il magazzino di livello 10 protegge 1 milione di alimenti e cristalli.
+3. Livello massimo del tuo ospedale, aggiungi la capacità dell'ospedale di ricerca, aggiungi punti talento per la capacità dell'ospedale
+4. Nessun ospedale dell'Alleanza! (È costoso e ci vuole un'eternità per essere curati dall'Alliance Hospital)
+5. Fai salire di livello la tua **HALL of WAR** per aver aggiunto più truppe al tuo raduno !
+6. Fai salire di livello la tua **AMBASCIATA** per averti aggiunto più truppe di rinforzo !
+7. Proteggi le tue truppe inviandole alla **Alliance Foretress** o alla **Alliance Mine**!
+8. Metti Hero Barnaby e Phoebus sulla tua bacheca per aumentare la tua difesa.
+
+---
 ### Crescita
 1. Continua ad addestrare i soldati (non smettere mai di aggiungere truppe)!
 2. Continua a far salire di livello gli eroi e le loro abilità (d'oro e viola)!
@@ -20,16 +31,6 @@ permalink           : "/guides/game-guides_it/"
 9. Partecipa agli eventi in Event Center
 10. **Reclutamento eroi**: reclutamento in modalità **Maestro** (5 estrazioni contemporaneamente) per ottenere un eroe dorato e viola!
 11. **Evento: Porta Antica** fallo a giorni alterni, l'oro cremisi serve per costruire il tuo equipaggiamento (elmo, armatura, stivali, ...)!
-
----
-### Protezione / Difesa
-1. **Mantieni la maggior parte delle tue risorse nell'inventario** (in modo che le risorse non cadano a causa di un attacco)
-2. Mantieni il tuo magazzino 10+, il magazzino di livello 10 protegge 1 milione di alimenti e cristalli.
-3. Livello massimo del tuo ospedale, aggiungi la capacità dell'ospedale di ricerca, aggiungi punti talento per la capacità dell'ospedale
-4. Nessun ospedale dell'Alleanza! (È costoso e ci vuole un'eternità per essere curati dall'Alliance Hospital)
-5. Fai salire di livello la tua **HALL of WAR** se vuoi radunare più membri!
-6. Fai salire di livello la tua **AMBASCIATA** se vuoi che i membri ti inviino abbastanza rinforzi!
-7. Proteggi le tue truppe inviandole alla **Alliance Foretress** o alla **Alliance Mine**!
 
 ---
 ### NON 
