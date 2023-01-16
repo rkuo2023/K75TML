@@ -12,7 +12,7 @@ permalink           : "/events/ancient-gate_en/"
 Total game time: **~30 minutes**<br>
 
 ### For members, 
-1. Each member can donate keys (25 keys max) for openning Ancient Gate (900 keys)<br>
+1. Each member can donate keys (1 key=5 points) for openning Ancient Gate (900 points)<br>
    Donate keys has a reward depending on how many keys you donated !<br>
 2. Anicent Gate colddown time = 1d 20hr which make it happen **once in 2 days**.
 3. Game Time is based on **UTC clock**, please see the clock on **Settings**
