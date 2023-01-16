@@ -8,6 +8,16 @@ header:
    image_fullwidth  : "header_homepage_13.jpg"
 permalink           : "/guides/game-guides_nl/"
 ---
+### Bescherming / Verdediging
+1. **Houd de meeste van je grondstoffen in de inventaris** (zodat grondstoffen niet verloren gaan door een aanval)
+2. Houd je magazijn 10+, level 10 magazijn bescherm 1 miljoen voedingsmiddelen en kristallen.
+3. Max niveau van uw ziekenhuis, voeg onderzoeksziekenhuiscapaciteit toe, voeg talentpunten toe voor ziekenhuiscapaciteit
+4. Geen Alliantie Ziekenhuis! (Het is duur en duurt een eeuwigheid om genezen te worden van het Alliance Hospital)
+5. Verhoog je **HAL van OORLOG** als je meer leden wilt verzamelen!
+6. Verhoog je **AMBASSADE** als je wilt dat leden genoeg versterking naar je toe sturen!
+7. Bescherm je troepen door ze naar **Alliantie Fort** or **Alliance Mine**!
+8. Wijs de helden Barnaby en Forbes toe om de verdediging van de muren te leiden
+---
 ### Groei
 1. Blijf soldaten trainen (stop nooit met het toevoegen van troepen)!
 2. Blijf de (Gouden & Paarse) Helden en hun vaardigheden nivelleren!
@@ -20,16 +30,6 @@ permalink           : "/guides/game-guides_nl/"
 9. Deelnemen aan evenementen in Event Center
 10. **Helden werven**: rekruteren in **Meester**-modus (5 trekkingen tegelijk) om een gouden en paarse held te krijgen !
 11. Evenement: Ancient Gate doe het om de dag, het paarse goud is voor het bouwen van je uitrusting (helm, pantser, laarzen, ...)
-
----
-### Bescherming / Verdediging
-1. **Houd de meeste van je grondstoffen in de inventaris** (zodat grondstoffen niet verloren gaan door een aanval)
-2. Houd je magazijn 10+, level 10 magazijn bescherm 1 miljoen voedingsmiddelen en kristallen.
-3. Max niveau van uw ziekenhuis, voeg onderzoeksziekenhuiscapaciteit toe, voeg talentpunten toe voor ziekenhuiscapaciteit
-4. Geen Alliantie Ziekenhuis! (Het is duur en duurt een eeuwigheid om genezen te worden van het Alliance Hospital)
-5. Verhoog je **HAL van OORLOG** als je meer leden wilt verzamelen!
-6. Verhoog je **AMBASSADE** als je wilt dat leden genoeg versterking naar je toe sturen!
-7. Bescherm je troepen door ze naar **Alliantie Fort** or **Alliance Mine**!
 
 ---
 ### Verbieden 
