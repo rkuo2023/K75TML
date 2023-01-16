@@ -8,6 +8,17 @@ header:
    image_fullwidth  : "header_homepage_13.jpg"
 permalink           : "/guides/game-guides_de/"
 ---
+### Verteidigung
+1. **Halten Sie die meisten Ihrer Ressourcen im Inventar** (damit Ressourcen nicht durch Angriffe fallen)
+2. Halten Sie Ihr Lager auf 10+, lvl 10 Lager schützt 1 Million Lebensmittel und Kristalle.
+3. Maximale Stufe Ihres Krankenhauses, Forschungskrankenhauskapazität hinzufügen, Talentpunkte für Krankenhauskapazität hinzufügen
+4. Kein Allianz-Krankenhaus! (Es ist kostspielig und dauert ewig, um vom Alliance Hospital geheilt zu werden)
+5. Verbessere deine **HALLE DES KRIEGES**, für das Hinzufügen weiterer Truppen zu deiner **Kundgebung**!
+6. Erhöhen Sie Ihr **EMBASSY**, dafür, dass du dir weitere **Verstärkungstruppen** hinzufügst!
+7. Beschütze deine Truppen, indem du sie zur **Allianzfestung** oder **Allianzmine** schickst!
+8. Bringen Sie Hero **Barnaby & Phoebus** an Ihrer Wand an, um Ihre Verteidigung zu erhöhen.
+9. 
+---
 ### Wachstum
 1. Trainiere weiter Soldaten (höre nie auf, Truppen hinzuzufügen)!
 2. Leveln Sie weiter Helden und ihre Fähigkeiten (Golden & Lila)!
@@ -20,16 +31,6 @@ permalink           : "/guides/game-guides_de/"
 9. Nehmen Sie an Veranstaltungen im Event Center teil
 10. **Helden rekrutieren**: Rekrutiere im Modus **Meister** (5 Ziehungen auf einmal), um einen goldenen und violetten Helden zu erhalten!
 11. **Event: Uraltes Tor** mach es jeden zweiten Tag, das purpurrote Gold ist für den Bau deiner Ausrüstung (Helm, Rüstung, Stiefel, ...)
-
----
-### Schutz / Verteidigung
-1. **Halten Sie die meisten Ihrer Ressourcen im Inventar** (damit Ressourcen nicht durch Angriffe fallen)
-2. Halten Sie Ihr Lager auf 10+, lvl 10 Lager schützt 1 Million Lebensmittel und Kristalle.
-3. Maximale Stufe Ihres Krankenhauses, Forschungskrankenhauskapazität hinzufügen, Talentpunkte für Krankenhauskapazität hinzufügen
-4. Kein Allianz-Krankenhaus! (Es ist kostspielig und dauert ewig, um vom Alliance Hospital geheilt zu werden)
-5. Verbessere deine **HALLE DES KRIEGES**, wenn du dich mit mehr Mitgliedern versammeln möchtest!
-6. Erhöhen Sie Ihr **EMBASSY**, wenn Sie möchten, dass Mitglieder Ihnen genug Verstärkung schicken!
-7. Beschütze deine Truppen, indem du sie zur **Allianzfestung** oder **Allianzmine** schickst!
 
 ---
 ### Verbieten 
