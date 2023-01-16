@@ -8,6 +8,16 @@ header:
    image_fullwidth  : "header_homepage_13.jpg"
 permalink           : "/guides/game-guides_tr/"
 ---
+### Koruma / Savunma
+1. **Kaynaklarınızın çoğunu Envanterde tutun** (böylece kaynaklar saldırıyla düşmez)
+2. Deponuzu 10+ tutun, lvl 10 deponuz 1M gıdaları ve kristalleri korur.
+3. Hastanenizin maksimum seviyesi, araştırma hastanesi kapasitesi ekleyin, hastane kapasitesi için yetenek puanı ekleyin
+4. Alliance Hastanesi Yok! (Pahalı ve Alliance Hastanesinden iyileşmek sonsuza kadar sürüyor)
+5. Daha fazla üye ile toplanmak istiyorsanız **SAVAŞ SALONU** seviyenizi yükseltin!
+6. Üyelerin size yeterince destek göndermesini istiyorsanız **EMBASSY** seviyenizi yükseltin!
+7. Birliklerinizi **Alliance Foretress** veya **Alliance Mine**'a göndererek koruyun!
+
+---
 ### Büyüme
 1. Askerleri eğitmeye devam edin (Asla asker eklemeyi bırakmayın)!
 2. Kahramanları ve becerilerini (Altın ve Mor) seviyelendirmeye devam edin!
@@ -20,16 +30,6 @@ permalink           : "/guides/game-guides_tr/"
 9. Event Center'daki etkinliklere katılın
 10. **Recruiting Heroes**: recruiting in **Master** mode (5 draws-at-once) to get a golden and purple hero !
 11. **Etkinlik: Antik Kapı** bunu iki günde bir yapın, mor altın ekipmanlarınızı (kask, zırh, botlar, ...) inşa etmek içindir.
-
----
-### Koruma / Savunma
-1. **Kaynaklarınızın çoğunu Envanterde tutun** (böylece kaynaklar saldırıyla düşmez)
-2. Deponuzu 10+ tutun, lvl 10 deponuz 1M gıdaları ve kristalleri korur.
-3. Hastanenizin maksimum seviyesi, araştırma hastanesi kapasitesi ekleyin, hastane kapasitesi için yetenek puanı ekleyin
-4. Alliance Hastanesi Yok! (Pahalı ve Alliance Hastanesinden iyileşmek sonsuza kadar sürüyor)
-5. Daha fazla üye ile toplanmak istiyorsanız **SAVAŞ SALONU** seviyenizi yükseltin!
-6. Üyelerin size yeterince destek göndermesini istiyorsanız **EMBASSY** seviyenizi yükseltin!
-7. Birliklerinizi **Alliance Foretress** veya **Alliance Mine**'a göndererek koruyun!
 
 ---
 ### YAPMAT 
