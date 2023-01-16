@@ -8,7 +8,7 @@ header:
    image_fullwidth  : "header_homepage_13.jpg"
 permalink           : "/game-guides/"
 ---
-### Protection / Defense
+### Defense
 1. **Keep most of your resources in Inventory** (so resources won't drop by attack)
 2. Level up your warehouse to 10+, lvl 10 warehouse protect 1M foods & crystals.
 3. Max level of your **hospital**, add research **hospital capacity**, add talent points for hospital capacity
