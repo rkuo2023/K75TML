@@ -8,7 +8,7 @@ header:
    image_fullwidth  : "header_homepage_13.jpg"
 permalink           : "/guides/game-guides_tr/"
 ---
-### Koruma / Savunma
+### Savunma
 1. **Kaynaklarınızın çoğunu Envanterde tutun** (böylece kaynaklar saldırıyla düşmez)
 2. Deponuzu 10+ tutun, lvl 10 deponuz 1M gıdaları ve kristalleri korur.
 3. Hastanenizin maksimum seviyesi, araştırma hastanesi kapasitesi ekleyin, hastane kapasitesi için yetenek puanı ekleyin
@@ -16,6 +16,7 @@ permalink           : "/guides/game-guides_tr/"
 5. Daha fazla üye ile toplanmak istiyorsanız **SAVAŞ SALONU** seviyenizi yükseltin!
 6. Üyelerin size yeterince destek göndermesini istiyorsanız **EMBASSY** seviyenizi yükseltin!
 7. Birliklerinizi **Alliance Foretress** veya **Alliance Mine**'a göndererek koruyun!
+8. Surların savunmasına liderlik etmeleri için kahramanlar Barnaby ve Forbes'u atayın
 
 ---
 ### Büyüme
