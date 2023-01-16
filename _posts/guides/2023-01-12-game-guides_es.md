@@ -8,6 +8,17 @@ header:
    image_fullwidth  : "header_homepage_13.jpg"
 permalink           : "/guides/game-guides_es/"
 ---
+### Defensa
+1. **Mantenga la mayoría de sus recursos en Inventario** (para que los recursos no caigan por ataque)
+2. Mantenga su almacén 10+, el almacén lvl 10 protege 1M de alimentos y cristales.
+3. Nivel máximo de su hospital, agregue la capacidad del hospital de investigación, agregue puntos de talento para la capacidad del hospital
+4. ¡Ningún hospital de la Alianza! (Es costoso y tarda una eternidad en curarse en Alliance Hospital)
+5. ¡Sube de nivel tu **SALÓN DE LA GUERRA** por añadir más tropas a tu rally!
+6. ¡Sube de nivel tu **EMBAJADA** por añadirte más tropas de refuerzo!
+7. ¡Protege a tus tropas enviándolas a **Alliance Foretress** o **Alliance Mine**!
+8. Pon a Hero Barnaby & Phoebus en tu pared para aumentar tu defensa
+
+---
 ### Crecimiento
 1. ¡Sigue entrenando soldados (nunca dejes de agregar tropas)!
 2. ¡Sigue subiendo de nivel a los héroes y sus habilidades (dorado y morado)!
@@ -20,16 +31,6 @@ permalink           : "/guides/game-guides_es/"
 9. Participar en eventos en Event Center
 10. **Reclutando héroes**: ¡reclutando en modo **Maestro** (5 sorteos a la vez) para obtener un héroe dorado y morado!
 11. **Evento: Puerta antigua** hazlo cada dos días, el oro carmesí es para construir tus equipos (casco, armadura, botas, ...)!
-    
----
-### Protección / Defensa
-1. **Mantenga la mayoría de sus recursos en Inventario** (para que los recursos no caigan por ataque)
-2. Mantenga su almacén 10+, el almacén lvl 10 protege 1M de alimentos y cristales.
-3. Nivel máximo de su hospital, agregue la capacidad del hospital de investigación, agregue puntos de talento para la capacidad del hospital
-4. ¡Ningún hospital de la Alianza! (Es costoso y tarda una eternidad en curarse en Alliance Hospital)
-5. ¡Sube de nivel tu **SALÓN DE LA GUERRA** si quieres reunirte con más miembros!
-6. ¡Sube de nivel tu **EMBAJADA** si quieres que los miembros te envíen suficientes refuerzos!
-7. ¡Protege a tus tropas enviándolas a **Alliance Foretress** o **Alliance Mine**!
 
 ---
 ### Prohibir
