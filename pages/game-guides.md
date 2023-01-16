@@ -25,10 +25,10 @@ permalink           : "/game-guides/"
 ### Protection / Defense
 1. **Keep most of your resources in Inventory** (so resources won't drop by attack)
 2. Level up your warehouse to 10+, lvl 10 warehouse protect 1M foods & crystals.
-3. Max level of your hospital, add research hospital capacity, add talent points for hospital capacity
+3. Max level of your **hospital**, add research **hospital capacity**, add talent points for hospital capacity
 4. No Alliance Hospital ! (It is costly and take forever to get cured from Alliance Hospital)
-5. Level up your **HALL of WAR** if you want to rally with more members!
-6. Level up your **EMBASSY** if you want members to send enough reinforcement to you !
+5. Level up your **HALL of WAR** for adding more troops to your **rally**
+6. Level up your **EMBASSY** for adding more **reinforcement** troops to you !
 7. Protect your troops by sending them to **Alliance Foretress** or **Alliance Mine**!
 
 ---
