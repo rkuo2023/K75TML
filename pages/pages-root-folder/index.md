@@ -35,8 +35,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://discord.gg/7dbxFfVD
-  text: Chatrooom - discord.gg/7dbxFfVD
+  url: https://rkuo2023.github.io/k55o4a
+  text: [homepage](https://rkuo2023.github.io/k55o4a)
   style: alert
 permalink: /index.html
 #
