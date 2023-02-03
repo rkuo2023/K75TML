@@ -36,7 +36,7 @@ widget3:
 #
 callforaction:
   url: https://rkuo2023.github.io/k55o4a
-  text: [homepage](https://rkuo2023.github.io/k55o4a)
+  text: [homepage]
   style: alert
 permalink: /index.html
 #
