@@ -1,7 +1,7 @@
 ---
 layout              : page
 show_meta           : false
-title               : "Alliance "Crunch"
+title               : "Alliance Crunch"
 subheadline         : "Events Guides"
 teaser              : "Game guide for new players !"
 header:
