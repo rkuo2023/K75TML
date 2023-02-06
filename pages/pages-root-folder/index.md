@@ -17,7 +17,7 @@ widget2:
   title: "Event Guides"
   url: 'http://rkuo2023.github.io/k55o4a/events/ancient-gate/'
   text: '<em>Main Events</em>: <br/>1. Alliance Crunch <br/>2. Ancient Gate <br/>3. Specter Raid <br/>4. Tidelands <br/>...'
-  video: '<iframe width="220" height="123" src="https://www.youtube.com/embed/EtbQdr0v1CE" title="Misty Continent - Completely Broken event - Tidelands  [Eng Version]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
+  video: '<iframe width="220" height="123" src="https://www.youtube.com/embed/W_DbO8QBy2Q" title="Misty Continent - First Tidelands" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
 widget3:
   title: "Combat Tactics"
   url: 'http://rkuo2023.github.io/k55o4a/tactics/combat-tactics/'
