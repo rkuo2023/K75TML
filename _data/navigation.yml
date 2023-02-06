@@ -48,12 +48,14 @@
   url: "/events/ancient-gate/"
   side: left
   dropdown:
+  - title: "Alliance Crunch"
+    url: "/events/alliance-crunch/"   
   - title: "Ancient Gate"
     url: "/events/ancient-gate/"
   - title: "Specter Raid"
-    url: "/events/specter-raid/"
+    url: "/events/specter-raid/"    
   - title: "Tidelands"
-    url: "/event/tidelands/"
+    url: "/events/tidelands/"
 
 - title: Combat Tactics
   url: "/tactics/solo-attack/"
