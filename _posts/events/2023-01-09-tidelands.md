@@ -14,7 +14,7 @@ Alliance vs Alliance from different Kingdom
 2. Once the opponent is matched, then the entering time will be announced
 3. Click the event center to enter tidelands (the more members join the better)
 4. Please see below video for details:
-<iframe width="960" height="540" src="https://www.youtube.com/embed/EtbQdr0v1CE" title="Misty Continent - Completely Broken event - Tidelands  [Eng Version]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="1063" height="596" src="https://www.youtube.com/embed/W_DbO8QBy2Q" title="Misty Continent - First Tidelands" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Tricks
 To-be-dislosed in **K55 O4A** alliance, please join us !!!
