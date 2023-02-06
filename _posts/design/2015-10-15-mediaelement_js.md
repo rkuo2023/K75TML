@@ -24,8 +24,13 @@ image:
     caption_url: https://rkuo2023.github.io/k55o4a/images
 mediaplayer: true
 ---
-### Basic Tips
-<iframe width="877" height="493" src="https://www.youtube.com/embed/bMkINbwzslw" title="Misty Continent: Cursed Island Tips" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+### Gemstones
+<iframe width="1063" height="478" src="https://www.youtube.com/embed/QVmcH0CKLN8" title="Misty Continent Cursed Island - GEMSTONE CAVE part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="1063" height="478" src="https://www.youtube.com/embed/rD-DfXadcFw" title="Misty Continent Cursed Island - GEMSTONE CAVE part 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+### Alliance Cruch Chanllenges
+<iframe width="877" height="395" src="https://www.youtube.com/embed/SlzqhBIAh9Q" title="Alliance Crunch Challenges Screen Explained - Misty Continent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 ### Equipment Tips
@@ -44,14 +49,8 @@ mediaplayer: true
 <iframe width="877" height="395" src="https://www.youtube.com/embed/BcXQaf2tkf0" title="Creation Update Level 6-10 - Misty Continent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
-### Alliance Cruch Chanllenges
-<iframe width="877" height="395" src="https://www.youtube.com/embed/SlzqhBIAh9Q" title="Alliance Crunch Challenges Screen Explained - Misty Continent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
----
-### Gemstones
-<iframe width="877" height="395" src="https://www.youtube.com/embed/MaMUZIPUZ6M" title="Gemstones First Look (Part 1) - Misty Continent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="877" height="395" src="https://www.youtube.com/embed/Cm5dTXj3qsE" title="Gemstones First Look (Part 2) - Misty Continent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="877" height="395" src="https://www.youtube.com/embed/Q4B--arKUCo" title="Gemstones First Look (Part 3) - Misty Continent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+### Basic Tips
+<iframe width="877" height="493" src="https://www.youtube.com/embed/bMkINbwzslw" title="Misty Continent: Cursed Island Tips" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 <br>
