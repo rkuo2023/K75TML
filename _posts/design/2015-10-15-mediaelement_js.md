@@ -24,6 +24,10 @@ image:
     caption_url: https://rkuo2023.github.io/k55o4a/images
 mediaplayer: true
 ---
+### Farm account
+<iframe width="854" height="480" src="https://www.youtube.com/embed/-LwF6eCupeQ" title="Misty continent - How to ignor game RSS limit [English Version]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
 ### Gemstones
 <iframe width="1063" height="478" src="https://www.youtube.com/embed/QVmcH0CKLN8" title="Misty Continent Cursed Island - GEMSTONE CAVE part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <iframe width="1063" height="478" src="https://www.youtube.com/embed/rD-DfXadcFw" title="Misty Continent Cursed Island - GEMSTONE CAVE part 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
