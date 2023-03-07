@@ -7,12 +7,12 @@ permalink: "/faq/"
 header:
    image_fullwidth: "header_homepage_13.jpg"
 ---
-### Post your requests [here](https://github.com/rkuo2023/kk5o4a/pull)!
+### Post your requests [here](https://github.com/rkuo2023/k75o4a/pull)!
 
 ---
 ### How do I ask questions ?
 1. Register a github account
-2. Post your requests on [K55O4A pulls](https://github.com/rkuo2023/k55o4a/pulls)
+2. Post your requests on [K75O4A pulls](https://github.com/rkuo2023/k75o4a/pulls)
 
 ---
 ### How do I get more silver ?
