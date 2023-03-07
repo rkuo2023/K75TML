@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Videos"
 title: "Gameplay Tips & Tricks"
-teaser: "Come to Kingdom #55, and join O4A alliance!"
+teaser: "Come to Kingdom #75, and join Tempest alliance!"
 categories:
   - design
 tags:
@@ -17,11 +17,11 @@ tags:
 #
 header: yes
 image:
-    title: K55-O4A-title.jpg
-    thumb: K55-O4A-thumb.jpg
-    homepage: K55-O4A-home.jpg
+    title: K75-O4A-title.jpg
+    thumb: K75-O4A-thumb.jpg
+    homepage: K75-O4A-home.jpg
     caption: Photo by Arishem
-    caption_url: https://rkuo2023.github.io/k55o4a/images
+    caption_url: https://rkuo2023.github.io/k75o4a/images
 mediaplayer: true
 ---
 ### Farm account
