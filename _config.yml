@@ -8,13 +8,13 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'K55 O4A'
+title: 'K75 O4A'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'O4A - One for All languages !'
+slogan: 'O4A Tempest!'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: '»O4A« is an One for All languages alliance in Kingdom #55 of Mystic Continent.'
+description: '»O4A Tempest« is a tempest alliance in Kingdom #75 of Mystic Continent.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created with &hearts; by <a href="http://github.com/rkuo2023/">Arishem</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://rkuo2023.github.io/k55o4a/">K55 O4A</a>.</p>'
@@ -26,12 +26,12 @@ author: Arishem
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://rkuo2023.github.io'
-baseurl: '/k55o4a'
+baseurl: '/k75o4a'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
 #improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
-improve_content: https://github.com/rkuo2023/k55o4a/edit/gh-pages
+improve_content: https://github.com/rkuo2023/k75o4a/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -40,7 +40,7 @@ improve_content: https://github.com/rkuo2023/k55o4a/edit/gh-pages
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
 #urlimg: 'https://phlow.github.io/feeling-responsive/images/'
-urlimg: 'https://rkuo2023.github.io/k55o4a/images/'
+urlimg: 'https://rkuo2023.github.io/k75o4a/images/'
 
 
 # Logo size is 600x80 pixels
