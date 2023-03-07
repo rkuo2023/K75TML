@@ -34,5 +34,5 @@ Misty Continent Cursed Island cheats, hack codes ingredients:
 HOW & WHERE ENTER [>Here<](https://cheat-on.com/discussion/2108/use-your-gift-card-gift-code-or-promo-code/)! <br>
 
 ---
-### Post your requests on [K55O4A pulls](https://github.com/rkuo2023/k55o4a/pulls)
+### Post your requests on [K75O4A pulls](https://github.com/rkuo2023/k75o4a/pulls)
 
