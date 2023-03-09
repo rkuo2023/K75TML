@@ -3,17 +3,17 @@ layout              : page
 show_meta           : false
 title               : "如何開始"
 subheadline         : "遊戲安裝"
-teaser              : "請參加 K55 O4A 聯盟!"
+teaser              : "請參加 K55 TML 聯盟!"
 header:
    image_fullwidth  : "header_homepage_13.jpg"
 permalink           : "/getting-started_zh/"
 
 ---
 ## 啟動遊戲
-### 選擇 王國 #55 來跟我們一起玩 !
+### 選擇 王國 #75 來跟我們一起玩 !
 1. 到App 商店, 搜尋 **迷霧大陸-詛咒島** 並進行安裝 
-2. 選擇  **王國 #55** 開始新的遊戲 !
-3. 當城堡到達等級7, 就可以選擇加入聯盟 **O4A** !!!
+2. 選擇  **王國 #75** 開始新的遊戲 !
+3. 當城堡到達等級7, 就可以選擇加入聯盟 **TML** !!!
  
 ---
 ## 手機或平板
