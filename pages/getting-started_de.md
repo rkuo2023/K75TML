@@ -10,10 +10,10 @@ permalink           : "/getting-started_de/"
 
 ---
 ## Beginnen Sie zu spielen
-### Wählen Sie Kingdom 55, um mit uns zu spielen!
+### Wählen Sie Kingdom 75, um mit uns zu spielen!
 1. Gehen Sie auf Ihrem Tablet/Smartphone zum App Store, suchen Sie nach **Mystic Continent** und installieren Sie das Spiel
-2. Wählen Sie **Königreich Nr. 55**, um ein neues Spiel zu starten!
-3. Wenn Ihre Festung (Schloss) **Lv 7** erreicht, treten Sie bitte der Allianz **O4A** bei !!!
+2. Wählen Sie **Königreich Nr. 75**, um ein neues Spiel zu starten!
+3. Wenn Ihre Festung (Schloss) **Lv 7** erreicht, treten Sie bitte der Allianz **TML** bei !!!
  
 ---
 ## Für Smartphone/Tablet
