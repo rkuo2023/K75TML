@@ -3,17 +3,17 @@ layout              : page
 show_meta           : false
 title               : "Empezando"
 subheadline         : "Instalación del juego"
-teaser              : "Empezando a jugar... ¡Únete a la alianza K55 O4A!"
+teaser              : "Empezando a jugar... ¡Únete a la alianza K75 TML!"
 header:
    image_fullwidth  : "header_homepage_13.jpg"
 permalink           : "/getting-started_es/"
 
 ---
 ## Empezar a jugar
-### ¡Elige Kingdom 55 para jugar con nosotros!
+### ¡Elige Kingdom 75 para jugar con nosotros!
 1. Vaya a App Store en su tableta/smartphone, busque **Mystic Continent** e instale el juego 
-2. Seleccione **Kingdom #55** para comenzar un nuevo juego !
-3. Cuando su Fortaleza (Castillo) alcance **nivel 7**, únase a la alianza **O4A** !!!
+2. Seleccione **Kingdom #75** para comenzar un nuevo juego !
+3. Cuando su Fortaleza (Castillo) alcance **nivel 7**, únase a la alianza **TML** !!!
  
 ---
 ## Para teléfono inteligente / tableta
