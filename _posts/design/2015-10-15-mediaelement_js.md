@@ -17,11 +17,11 @@ tags:
 #
 header: yes
 image:
-    title: K75-O4A-title.jpg
-    thumb: K75-O4A-thumb.jpg
-    homepage: K75-O4A-home.jpg
+    title: K75-TML-title.jpg
+    thumb: K75-TML-thumb.jpg
+    homepage: K75-TML-home.jpg
     caption: Photo by Arishem
-    caption_url: https://rkuo2023.github.io/k75o4a/images
+    caption_url: https://rkuo2023.github.io/K75TML/images
 mediaplayer: true
 ---
 ### Farm account
