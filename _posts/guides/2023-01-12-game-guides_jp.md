@@ -38,8 +38,8 @@ permalink           : "/guides/game-guides_jp/"
 * プレイヤーが占有している、または占有する予定の鉱山に部隊を送ることは禁止されています, このプレイヤーを攻撃します !
 
 ---
-### [質問と回答](https://rkuo2023.github.io/k55o4a/design/mediaelement_js/)
-ご不明な点がございましたら、 [K55O4A pulls](https://github.com/rkuo2023/k55o4a/pulls).<br>
+### [質問と回答](https://rkuo2023.github.io/K75TML/design/mediaelement_js/)
+ご不明な点がございましたら、 [K75TML pulls](https://github.com/rkuo2023/k55o4a/pulls).<br>
 
 ---
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/design/mediaelement_js/">ヒントとコツの関連ビデオ...見てください!</a>
