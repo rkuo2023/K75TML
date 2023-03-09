@@ -38,8 +38,8 @@ permalink           : "/guides/game-guides_it/"
 * **NON** **Invia truppe** a una tessera risorsa occupata o che sta per essere occupata da un giocatore, stai **attaccando** il giocatore se lo hai fatto.
 
 ---
-### [domande e risposte](https://rkuo2023.github.io/k55o4a/design/mediaelement_js/)
-Pubblica le tue richieste sun [K55O4A pulls](https://github.com/rkuo2023/k55o4a/pulls).<br>
+### [domande e risposte](https://rkuo2023.github.io/K75TML/design/mediaelement_js/)
+Pubblica le tue richieste sun [K75TML pulls](https://github.com/rkuo2023/K75TML/pulls).<br>
 
 ---
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/design/mediaelement_js/">Guarda i video per consigli e suggerimenti</a>
