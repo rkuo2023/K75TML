@@ -3,14 +3,14 @@ layout              : page
 show_meta           : false
 title               : "入門"
 subheadline         : "ゲームの設置"
-teaser              : "ゲームを始める...K55 O4A同盟に参加e!"
+teaser              : "ゲームを始める...K75 TML同盟に参加e!"
 header:
    image_fullwidth  : "header_homepage_13.jpg"
 permalink           : "/getting-started_jp/"
 
 ---
 ## プレイを開始
-### Ｋ５５を選択してプレイ 
+### K75 を選択してプレイ 
 1. タブレット/スマートフォンで App Store にアクセスします, Mystic Continent を検索してゲームをインストールする
 2. **Kingdom #55**を選択して、新しいゲームを開始します
 3. あなたの拠点(城)が**レベル7**に達したら、**O4A**同盟に参加してください!!!
