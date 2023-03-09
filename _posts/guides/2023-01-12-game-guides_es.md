@@ -37,8 +37,8 @@ permalink           : "/guides/game-guides_es/"
 * **NO** **Scout** a un jugador a menos que quieras iniciar una guerra con el jugador. ¡**Scout** es un acto de guerra en este juego!
 * **NO** **Envíe tropas** a una casilla de recursos ocupada o que vaya a ser ocupada por un jugador, **atacará** al jugador si lo hizo.
 -
-### [preguntas y respuestas](https://rkuo2023.github.io/k55o4a/design/mediaelement_js/)
-Publique sus solicitudes en [K55O4A pulls](https://github.com/rkuo2023/k55o4a/pulls).<br>
+### [preguntas y respuestas](https://rkuo2023.github.io/K75TML/design/mediaelement_js/)
+Publique sus solicitudes en [K75TML pulls](https://github.com/rkuo2023/K75TML/pulls).<br>
 
 ---
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/design/mediaelement_js/">Vea los videos de consejos y trucos</a>
