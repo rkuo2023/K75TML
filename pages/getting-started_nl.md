@@ -3,17 +3,17 @@ layout              : page
 show_meta           : false
 title               : "Beginnen"
 subheadline         : "Spel installatie"
-teaser              : "Aan de slag om het spel te spelen... sluit je aan bij de K55 O4A-alliantie!"
+teaser              : "Aan de slag om het spel te spelen... sluit je aan bij de K75 TML alliantie!"
 header:
    image_fullwidth  : "header_homepage_13.jpg"
 permalink           : "/getting-started_nl/"
 
 ---
 ## Begin te spelen
-### Kies Koninkrijk 55 om met ons te spelen!
+### Kies Koninkrijk 75 om met ons te spelen!
 1. Ga naar de App Store op je tablet/smartphone, zoek naar **Mystiek Continent** en installeer de game 
-2. Selecteer **Koninkrijk #55** om een nieuw spel te starten !
-3. Wanneer je Kasteel **Lvl 7** bereikt, sluit je dan aan bij de **O4A** alliantie !!!
+2. Selecteer **Koninkrijk #75** om een nieuw spel te starten !
+3. Wanneer je Kasteel **Lvl 7** bereikt, sluit je dan aan bij de **TML** alliantie !!!
  
 ---
 ## Voor smartphone/tablet
