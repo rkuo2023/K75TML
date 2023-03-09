@@ -3,14 +3,14 @@ layout              : page
 show_meta           : false
 title               : "Iniziare"
 subheadline         : "Installazione del gioco"
-teaser              : "Per iniziare a giocare... unisciti all'alleanza K55 O4A!"
+teaser              : "Per iniziare a giocare... unisciti all'alleanza K75 TML!"
 header:
    image_fullwidth  : "header_homepage_13.jpg"
 permalink           : "/getting-started_it/"
 
 ---
 ## Inizia a giocare
-### Scegli Kingdom 55 per giocare con noi!
+### Scegli Kingdom 75 per giocare con noi!
 1. Go to App Store on your tablet/smartphone, search **Mystic Continent** & install the game 
 2. Vai all'App Store sul tuo tablet/smartphone, cerca **Mystic Continent** e installa il gioco !
 3. Quando la tua Roccaforte (Castello) raggiunge il **livello 7**, unisciti all'alleanza **O4A**!!!
