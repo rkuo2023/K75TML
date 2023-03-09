@@ -38,8 +38,8 @@ permalink           : "/guides/game-guides_de/"
 * **UNTERLASSEN SIE** **Sende Truppen** zu einem Ressourcenplättchen, das von einem Spieler besetzt ist oder besetzt werden soll, du **greifst** den Spieler an, wenn du es getan hast.
 
 ---
-### [Fragen & Antworten](https://rkuo2023.github.io/k55o4a/design/mediaelement_js/)
-Posten Sie Ihre Anfragen auf [K55O4A pulls](https://github.com/rkuo2023/k55o4a/pulls).<br>
+### [Fragen & Antworten](https://rkuo2023.github.io/K75TML/design/mediaelement_js/)
+Posten Sie Ihre Anfragen auf [K55O4A pulls](https://github.com/rkuo2023/K75TML/pulls).<br>
 
 ---
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/design/mediaelement_js/">Schauen Sie sich die Videos für Tipps & Tricks an</a>
