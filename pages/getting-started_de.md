@@ -3,7 +3,7 @@ layout              : page
 show_meta           : false
 title               : "Einstieg"
 subheadline         : "Spielinstallation"
-teaser              : "Erste Schritte zum Spielen des Spiels ... treten Sie der K55 O4A-Allianz bei!"
+teaser              : "Erste Schritte zum Spielen des Spiels ... treten Sie der K75 TML-Allianz bei!"
 header:
    image_fullwidth  : "header_homepage_13.jpg"
 permalink           : "/getting-started_de/"
