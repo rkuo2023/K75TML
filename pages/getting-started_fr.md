@@ -3,17 +3,17 @@ layout              : page
 show_meta           : false
 title               : "Commencer"
 subheadline         : "Installation du jeu"
-teaser              : "Commencer à jouer au jeu... rejoignez l'alliance K55 O4A!"
+teaser              : "Commencer à jouer au jeu... rejoignez l'alliance K75 TML!"
 header:
    image_fullwidth  : "header_homepage_13.jpg"
 permalink           : "/getting-started_fr/"
 
 ---
 ## Commencez à jouer
-### Choisissez Royaume 55 pour jouer avec nous !
+### Choisissez Royaume 75 pour jouer avec nous !
 1. Accédez à l'App Store sur votre tablette/smartphone, recherchez **Mystic Continent** et installez le jeu
-2. Sélectionnez **Royaume #55** pour commencer une nouvelle partie !
-3. Lorsque votre Château atteint le **Lvl 7**, veuillez rejoindre l'alliance **O4A** !!!
+2. Sélectionnez **Royaume #75** pour commencer une nouvelle partie !
+3. Lorsque votre Château atteint le **Lvl 7**, veuillez rejoindre l'alliance **TML** !!!
  
 ---
 ## Pour Smartphone / Tablette
