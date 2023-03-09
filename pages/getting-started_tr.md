@@ -3,17 +3,17 @@ layout              : page
 show_meta           : false
 title               : "Başlarken"
 subheadline         : "Oyun Kurulumu"
-teaser              : "Getting started to play the game...join K55 O4A alliance!"
+teaser              : "Getting started to play the game...join K75 TML alliance!"
 header:
    image_fullwidth  : "header_homepage_13.jpg"
 permalink           : "/getting-started_tr/"
 
 ---
 ## Oyuna başla 
-### Bizimle oynamak için Kingdom 55'i seçin !
+### Bizimle oynamak için Kingdom 75'i seçin !
 1. Tabletinizde/akıllı telefonunuzda App Store'a gidin, **Mystic Continent**'i arayın ve oyunu yükleyin 
-2. Yeni bir oyuna başlamak için **Krallık #55**'i seçin! !
-3. Kaleniz **seviye 7**'ye ulaştığında, lütfen **O4A** ittifakına katılın !!!
+2. Yeni bir oyuna başlamak için **Krallık #75**'i seçin! !
+3. Kaleniz **seviye 7**'ye ulaştığında, lütfen **TML** ittifakına katılın !!!
  
 ---
 ## Telefon / Tablet
