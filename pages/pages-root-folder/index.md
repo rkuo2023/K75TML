@@ -17,7 +17,7 @@ widget2:
   title: "Event Guides"
   url: 'http://rkuo2023.github.io/K75TML/events/alliance-crunch/'
   text: '<em>Main Events</em>: <br/>1. Alliance Crunch <br/>2. Ancient Gate <br/>3. Specter Raid <br/>4. Relic War <br/>5. Tidelands <br/>6. Crown Invasion <br/>...'
-  video: '<iframe width="220" height="123" src="https://www.youtube.com/embed/oYjoYuiQ9Bc" title="Misty Continent - PVP [Every player should know] #stormshot (Eng Version)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
+  video: '<iframe width="220" height="123" src="https://www.youtube.com/embed/spgMkTrJ_GA" title="Crown invasion 682 vs 12 vs 350" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
 widget3:
   title: "Combat Tactics"
   url: 'http://rkuo2023.github.io/K75TML/tactics/combat-tactics/'
