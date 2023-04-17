@@ -24,6 +24,9 @@ image:
     caption_url: https://rkuo2023.github.io/K75TML/images
 mediaplayer: true
 ---
+### PvP
+<iframe width="1137" height="640" src="https://www.youtube.com/embed/oYjoYuiQ9Bc" title="Misty Continent - PVP [Every player should know] #stormshot (Eng Version)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Farm account
 <iframe width="854" height="480" src="https://www.youtube.com/embed/-LwF6eCupeQ" title="Misty continent - How to ignor game RSS limit [English Version]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
