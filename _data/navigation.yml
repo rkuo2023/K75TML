@@ -58,6 +58,8 @@
     url: "/events/relic-war/"    
   - title: "Tidelands"
     url: "/events/tidelands/"
+  - title: "Crown Invasion"
+    url: "/events/crown-invasion/"    
 
 - title: Combat Tactics
   url: "/tactics/solo-attack/"
