@@ -53,7 +53,9 @@
   - title: "Ancient Gate"
     url: "/events/ancient-gate/"
   - title: "Specter Raid"
-    url: "/events/specter-raid/"    
+    url: "/events/specter-raid/" 
+  - title: "Relic War"
+    url: "/events/relic-war/"    
   - title: "Tidelands"
     url: "/events/tidelands/"
 
