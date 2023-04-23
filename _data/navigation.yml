@@ -84,6 +84,13 @@
   dropdown:
   - title: "English"
     url: "/faq/faq_en/"
+    
+- title: Bulletin
+  url: "/bulletin/"
+  side: left
+  dropdown:
+  - title: "English"
+    url: "/bulletin/treaty/"    
 
 - title: "Search"
   url: "/search/"
