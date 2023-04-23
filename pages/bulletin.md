@@ -26,5 +26,5 @@ TML and ESS entering Crown Battle Treaty
 R4s, please read it and give your comments in R4s rooms in MC. 
 
 ---
-### Post your requests on [K55O4A pulls](https://github.com/rkuo2023/k55o4a/pulls)
+### Post your requests on [K55TML pulls](https://github.com/rkuo2023/K75TML/pulls)
 
