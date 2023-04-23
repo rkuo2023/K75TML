@@ -21,9 +21,11 @@ effective on UTC 4/16 0:00
 
 ---
 ### Crown Battle Treaty
-TML and ESS entering Crown Battle Treaty
+
+`under review, R4s please read it and give your comments in TML R4s room in MC`<br>
+
+**TML and ESS entering Crown Battle Treaty**<br>
 ![](https://github.com/rkuo2023/K75TML/blob/gh-pages/images/Crown%20Battle%20Treaty.PNG?raw=true)
-R4s, please read it and give your comments in R4s rooms in MC. 
 
 ---
 ### Post your requests on [K55TML pulls](https://github.com/rkuo2023/K75TML/pulls)
