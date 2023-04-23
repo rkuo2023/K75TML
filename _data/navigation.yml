@@ -90,7 +90,7 @@
   side: left
   dropdown:
   - title: "English"
-    url: "/bulletin/treaty/"    
+    url: "/bulletin/"    
 
 - title: "Search"
   url: "/search/"
