@@ -31,5 +31,5 @@ effective on `UTC 4/16 0:00`<br>
 ![](https://github.com/rkuo2023/K75TML/blob/gh-pages/images/Crown%20Battle%20Treaty.PNG?raw=true)
 
 ---
-### Post your requests on [K55TML pulls](https://github.com/rkuo2023/K75TML/pulls)
+### Post your requests on [K75TML pulls](https://github.com/rkuo2023/K75TML/pulls)
 
