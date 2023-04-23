@@ -10,7 +10,7 @@ header:
 ### Allies & Partners
 * Ally: ESS
 * NAP Partner: POW
-* Farms: tml
+* Farm alliance: tml
 
 --- 
 ### Kingdom Rule
