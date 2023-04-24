@@ -31,5 +31,18 @@ effective on `UTC 4/16 0:00`<br>
 ![](https://github.com/rkuo2023/K75TML/blob/gh-pages/images/Crown%20Battle%20Treaty.PNG?raw=true)
 
 ---
+### K55 Castles counts
+`on 4/24 08:40`
+<tablel>
+   <tr><td>Castle level</td><td> Headcount </td></tr>
+   <tr><td>C31</td><td>3</td></tr>
+   <tr><td>C30</td><td>5</td></tr>
+   <tr><td>C29</td><td>3</td></tr>
+   <tr><td>C28</td><td>8</td></tr>
+   <tr><td>C27</td><td>12</td></tr>
+   <tr><td>C26</td><td>48</td></tr>
+`some C26/C27 are inactives`
+   
+---
 ### Post your requests on [K75TML pulls](https://github.com/rkuo2023/K75TML/pulls)
 
