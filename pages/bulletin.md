@@ -34,7 +34,7 @@ effective on `UTC 4/16 0:00`<br>
 ### K55 Castles counts
 `on 4/24 08:40`
 <table>
-   <tr><th>Castle level</th><th>Headcount</th></tr>
+   <tr><th>SH level</th><th>Headcount</th></tr>
    <tr><td>C31</td><td>3</td></tr>
    <tr><td>C30</td><td>5</td></tr>
    <tr><td>C29</td><td>3</td></tr>
