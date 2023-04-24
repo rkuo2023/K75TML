@@ -41,6 +41,7 @@ effective on `UTC 4/16 0:00`<br>
    <tr><td>C28</td><td>8</td></tr>
    <tr><td>C27</td><td>12</td></tr>
    <tr><td>C26</td><td>48</td></tr>
+</table>   
 `some C26/C27 are inactives`
    
 ---
