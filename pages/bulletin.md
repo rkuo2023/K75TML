@@ -47,7 +47,7 @@ effective on `UTC 4/16 0:00`<br>
 
 ---
 ### K55 Leadersboard Solo-Power, StrongHold
-`on 4/24 12:35`
+`on 4/24 12:35`<br>
 Headcount : *C31 x3, C30 x5, C29 x3, C28 x8, C27 x12, C26 x48*
 <table>
    <tr><th>SH level</th><th>Name</th><th>Solo Power</th></tr>
