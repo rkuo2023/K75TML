@@ -42,8 +42,25 @@ effective on `UTC 4/16 0:00`<br>
    <tr><td>C27</td><td>12</td></tr>
    <tr><td>C26</td><td>48</td></tr>
 </table>
+
 `some C26/C27 are inactives`
-   
+
+---
+### K55 Leadersboard Solo-Power
+`on 4/24 12:35`
+<table>
+   <tr><th>SH level</th><th>Name</th><th>Solo Power</th></tr>
+   <tr><td>C31</td><td>MamaQueen</td><td>538,786,382</td></tr>
+   <tr><td>C31</td><td>Devron</td><td>506,343,482</td></tr>
+   <tr><td>C30</td><td>JamFlash</td><td>504,582,596</td></tr>
+   <tr><td>C31</td><td>Someon3</td><td>438,892,144</td></tr>
+   <tr><td>C30</td><td>Gibs</td><td>388,080,105</td></tr>
+   <tr><td>C30</td><td>FirePhoenix</td><td>374,446,762</td></tr>
+   <tr><td>C29</td><td>Otger</td><td>335,387,820</td></tr>
+   <tr><td>C30</td><td>Zuspra</td><td>313,617,258</td></tr>   
+   <tr><td>C30</td><td>LongAnh</td><td>260,684,592</td></tr>
+</table>
+
 ---
 ### Post your requests on [K75TML pulls](https://github.com/rkuo2023/K75TML/pulls)
 
