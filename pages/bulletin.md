@@ -36,35 +36,20 @@ header:
 ![](https://github.com/rkuo2023/K75TML/blob/gh-pages/images/Crown%20Battle%20Treaty.PNG?raw=true)
 
 ---
-### K55 Castles counts
-`on 4/24 08:40`
-<table>
-   <tr><th>SH level</th><th>Headcount</th></tr>
-   <tr><td>C31</td><td>3</td></tr>
-   <tr><td>C30</td><td>5</td></tr>
-   <tr><td>C29</td><td>3</td></tr>
-   <tr><td>C28</td><td>8</td></tr>
-   <tr><td>C27</td><td>12</td></tr>
-   <tr><td>C26</td><td>48</td></tr>
-</table>
-
-`some C26/C27 are inactives`
-
----
 ### K55 Leadersboard Solo-Power, StrongHold
-`on 4/24 12:35`<br>
-Headcount : *C31 x3, C30 x5, C29 x3, C28 x8, C27 x12, C26 x48*
+`on 4/28 15:20`<br>
+Headcount : *C31 x4, C30 x6, C29 x2, C28 x8, C27 x11, C26 x40*
+*not all participating KvK*
 <table>
    <tr><th>SH level</th><th>Name</th><th>Solo Power</th></tr>
-   <tr><td>C31</td><td>MamaQueen</td><td>538,786,382</td></tr>
-   <tr><td>C31</td><td>Devron</td><td>506,343,482</td></tr>
-   <tr><td>C30</td><td>JamFlash</td><td>504,582,596</td></tr>
-   <tr><td>C31</td><td>Someon3</td><td>438,892,144</td></tr>
-   <tr><td>C30</td><td>Gibs</td><td>388,080,105</td></tr>
-   <tr><td>C30</td><td>FirePhoenix</td><td>374,446,762</td></tr>
-   <tr><td>C29</td><td>Otger</td><td>335,387,820</td></tr>
-   <tr><td>C30</td><td>Zuspra</td><td>313,617,258</td></tr>   
-   <tr><td>C30</td><td>LongAnh</td><td>260,684,592</td></tr>
+   <tr><td>C31</td><td>MamaQueen</td><td>571,188,012</td></tr>
+   <tr><td>C31</td><td>Devron</td><td>525,805,194</td></tr>
+   <tr><td>C30</td><td>JamFlash</td><td>513,290,</td></tr>
+   <tr><td>C31</td><td>Someon3</td><td>476,358,288</td></tr>
+   <tr><td>C30</td><td>Gibs</td><td>404,583,099</td></tr>
+   <tr><td>C31</td><td>FirePhoenix</td><td>381,276,546</td></tr>
+   <tr><td>C30</td><td>Otger</td><td>349,114,897</td></tr>
+   <tr><td>C27</td><td>Punisher</td><td>346,195,275</td></tr>
 </table>
 
 ---
