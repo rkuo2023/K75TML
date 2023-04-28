@@ -21,7 +21,7 @@ header:
 **NAP top10** + 2 farm alliances voted by top10 <br>
 *no hitting on tiles, buildings, allies.*<br>
 
-*voted by top10 R5s* effective on `UTC 4/16 0:00`<br>
+*voted by top10 R5s* effective on `UTC 4/26 0:00`<br>
 
 ---
 ### Pledge of Allyship
