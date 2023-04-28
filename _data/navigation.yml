@@ -68,11 +68,7 @@
   - title: "Solo Attack"
     url: "/tactics/solo-attack/"
   - title: "Group Attack"
-    url: "/tactics/group-attack/"  
-  - title: "Self Defense"
-    url: "/tactics/self-defense/"
-  - title: "group-defense"
-    url: "/tactics/group-defense/"     
+    url: "/tactics/group-attack/"      
     
 - title: Tips & Tricks
   url: "/design/mediaelement_js/"
