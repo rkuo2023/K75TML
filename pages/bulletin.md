@@ -23,9 +23,13 @@ effective on `UTC 4/16 0:00`<br>
 *voted by top10 R5s*<br>
 
 ---
-### Crown Battle Treaty
+### Pledge of Allyship
+**TML and ESS** <br>
+*Coming Soon !!!*<br>
 
-`under review, R4s please read it and give your comments in TML R4s room in MC`<br>
+---
+### Crown Battle Treaty
+`Automatically enrolled on 4/29 Crown Battle`<br>
 
 **TML and ESS entering Crown Battle Treaty**<br>
 ![](https://github.com/rkuo2023/K75TML/blob/gh-pages/images/Crown%20Battle%20Treaty.PNG?raw=true)
