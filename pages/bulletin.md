@@ -18,8 +18,8 @@ header:
 --- 
 ### Kingdom Rule
   
-**NAP top10** + 2 farm alliances voted by top10 <br>
-*no hitting on tiles, buildings, allies.*<br>
+**NAP top10** voted by top10 <br>
+*no hitting on tiles, buildings, farms.*<br>
 
 *voted by top10 R5s* effective on `UTC 4/26 0:00`<br>
 
