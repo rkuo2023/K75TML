@@ -9,16 +9,16 @@ header:
 ---
 ### Allies & Partners
 
-* Ally: ESS
+* Ally: **ESS, TRU**
 
-* NAP Partner: POW
+* NAP Partner: **POW, RiF, PLH**
 
-* Farm alliance: tml
+* Farm alliance: **tml**
 
 --- 
 ### Kingdom Rule
   
-NAP top10 + 2 farm alliances voted by top10 <br>
+**NAP top10 + 2 farm alliances** voted by top10 <br>
 effective on `UTC 4/16 0:00`<br>
 *voted by top10 R5s*<br>
 
