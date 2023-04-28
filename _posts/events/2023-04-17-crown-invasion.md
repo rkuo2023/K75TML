@@ -15,7 +15,7 @@ permalink           : "/events/crown-invasion/"
 
 ---
 ### Pinnacle of Kings: Gameplay Guide
-**hold 4 hours of Citadels**<br>
+**To hold 4 hours of center Citadel !**<br>
 `4 Towers if held by another kingdom, it will attack citadels every 3~4 minutes, and will reduce 10% of your troops.`<br>
 
 ![](https://github.com/rkuo2023/K75TML/blob/gh-pages/images/Pinnacle_of_Kings_0.jpg?raw=true)
