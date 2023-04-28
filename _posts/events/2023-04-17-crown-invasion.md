@@ -14,6 +14,18 @@ permalink           : "/events/crown-invasion/"
 <iframe width="1054" height="593" src="https://www.youtube.com/embed/ArPM5paHTow" title="Stormshot: Isle of Adventure - Pinnacle Of Kings Event Guide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
+### Pinnacle of Kings: Gameplay Guide
+![](https://github.com/rkuo2023/K75TML/blob/gh-pages/images/Pinnacle_of_Kings_0.jpg?raw=true)
+![](https://github.com/rkuo2023/K75TML/blob/gh-pages/images/Pinnacle_of_Kings_1.jpg?raw=true)
+![](https://github.com/rkuo2023/K75TML/blob/gh-pages/images/Pinnacle_of_Kings_2.jpg?raw=true)
+![](https://github.com/rkuo2023/K75TML/blob/gh-pages/images/Pinnacle_of_Kings_3.jpg?raw=true)
+![](https://github.com/rkuo2023/K75TML/blob/gh-pages/images/Pinnacle_of_Kings_4.jpg?raw=true)
+![](https://github.com/rkuo2023/K75TML/blob/gh-pages/images/Pinnacle_of_Kings_5.jpg?raw=true)
+![](https://github.com/rkuo2023/K75TML/blob/gh-pages/images/Pinnacle_of_Kings_6.jpg?raw=true)
+![](https://github.com/rkuo2023/K75TML/blob/gh-pages/images/Pinnacle_of_Kings_7.jpg?raw=true)
+![](https://github.com/rkuo2023/K75TML/blob/gh-pages/images/Pinnacle_of_Kings_8.jpg?raw=true)
+
+---
 ### K55 Leadersboard Solo-Power, StrongHold
 `on 4/28 15:20`<br>
 Headcount : *C31 x4, C30 x6, C29 x2, C28 x8, C27 x11, C26 x40*
