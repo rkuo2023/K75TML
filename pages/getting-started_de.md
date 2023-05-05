@@ -3,16 +3,16 @@ layout              : page
 show_meta           : false
 title               : "Einstieg"
 subheadline         : "Spielinstallation"
-teaser              : "Erste Schritte zum Spielen des Spiels ... treten Sie der K75 TML-Allianz bei!"
+teaser              : "Erste Schritte zum Spielen des Spiels ... treten Sie der K88 OFA-Allianz bei!"
 header:
    image_fullwidth  : "header_homepage_13.jpg"
 permalink           : "/getting-started_de/"
 
 ---
 ## Beginnen Sie zu spielen
-### Wählen Sie Kingdom 75, um mit uns zu spielen!
+### Wählen Sie Kingdom 88, um mit uns zu spielen!
 1. Gehen Sie auf Ihrem Tablet/Smartphone zum App Store, suchen Sie nach **Mystic Continent** und installieren Sie das Spiel
-2. Wählen Sie **Königreich Nr. 75**, um ein neues Spiel zu starten!
+2. Wählen Sie **Königreich Nr. 88**, um ein neues Spiel zu starten!
 3. Wenn Ihre Festung (Schloss) **Lv 7** erreicht, treten Sie bitte der Allianz **TML** bei !!!
  
 ---
