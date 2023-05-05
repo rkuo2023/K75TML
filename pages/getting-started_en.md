@@ -3,17 +3,17 @@ layout              : page
 show_meta           : false
 title               : "Getting Started"
 subheadline         : "Game Installation"
-teaser              : "Getting started to play the game...join K75 TML alliance!"
+teaser              : "Getting started to play the game...join K88 OFA alliance!"
 header:
    image_fullwidth  : "header_homepage_13.jpg"
 permalink           : "/getting-started_en/"
 
 ---
 ## Start to play
-### Choose Kingdom 75 to play with us !
+### Choose Kingdom 88 to play with us !
 1. Go to App Store on your tablet/smartphone, search **Mystic Continent** & install the game 
-2. Select **Kingdom #75** to start a new game !
-3. When your Strong-Hold(Castle) reach **level 7**, please join **TML** alliance !!!
+2. Select **Kingdom #88** to start a new game !
+3. When your Strong-Hold(Castle) reach **level 7**, please join **OFA** alliance !!!
  
 ---
 ## For Smarphone / Tablet
