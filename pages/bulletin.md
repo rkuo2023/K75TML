@@ -2,16 +2,16 @@
 layout: page-fullwidth
 title: "Bulletin"
 subheadline: "Annoucements"
-teaser: "*Be our partners :D*"
+teaser: "Be our partners :D"
 permalink: "/bulletin/"
 header:
    image_fullwidth: "header_homepage_13.jpg"
 ---
 ### Allies & Partners
 
-* Ally: **UKR, JpG, Eoo**
-* 
-* Farm alliance: **ofa**
+* Ally: **UKR, JpG, Eoo**<br>
+
+* Farm alliance: **ofa**<br>
 
 --- 
 ### Kingdom Rule
