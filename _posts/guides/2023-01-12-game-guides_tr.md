@@ -38,8 +38,8 @@ permalink           : "/guides/game-guides_tr/"
 * **YAPMA** **Bir oyuncu tarafından işgal edilen veya işgal edilecek bir kaynak kutucuğuna asker gönderin**, bunu yaptıysanız oyuncuya **saldırmış olursunuz**.
 
 ---
-### [Sorular](https://rkuo2023.github.io/k55o4a/design/mediaelement_js/)
-isteklerinizi şuraya yazın: [K55O4A pulls](https://github.com/rkuo2023/k55o4a/pulls).<br>
+### [Sorular](https://rkuo2023.github.io/K88OFA/design/mediaelement_js/)
+isteklerinizi şuraya yazın: [K88OFA pulls](https://github.com/rkuo2023/K88OFA/pulls).<br>
 
 ---
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/design/mediaelement_js/">İpuçları ve Püf Noktaları için Videolara göz atın</a>
