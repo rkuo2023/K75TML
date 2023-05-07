@@ -37,8 +37,8 @@ permalink           : "/guides/game-guides_nl/"
 * Stuur GEEN troep naar een grondstoftegel die bezet is of zal worden bezet door een speler, je valt de speler aan als je dat deed.
 
 ---
-### [Vragen](https://rkuo2023.github.io/K75TML/design/mediaelement_js/)
-Plaats uw verzoeken op [K75TML pulls](https://github.com/rkuo2023/K75TML/pulls).<br>
+### [Vragen](https://rkuo2023.github.io/K88OFA/design/mediaelement_js/)
+Plaats uw verzoeken op [K88OFA pulls](https://github.com/rkuo2023/K88OFA/pulls).<br>
 
 ---
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/design/mediaelement_js/">Bekijk de video's voor tips en trucs</a>
