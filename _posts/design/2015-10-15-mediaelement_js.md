@@ -17,9 +17,9 @@ tags:
 #
 header: yes
 image:
-    title: K75-TML-title.jpg
-    thumb: K75-TML-thumb.jpg
-    homepage: K75-TML-home.jpg
+    title: K88-TML-title.jpg
+    thumb: K88-TML-thumb.jpg
+    homepage: K88-TML-home.jpg
     caption: Photo by Arishem
     caption_url: https://rkuo2023.github.io/K88OFA/images
 mediaplayer: true
