@@ -39,7 +39,7 @@ permalink           : "/guides/game-guides_zh/"
 
 ---
 ### [問題&回答](https://rkuo2023.github.io/K75TML/design/mediaelement_js/)
-若有疑問,請貼文至 [K75TML pulls](https://github.com/rkuo2023/K75TML/pulls).<br>
+若有疑問,請貼文至 [K88OFA pulls](https://github.com/rkuo2023/K88OFA/pulls).<br>
 
 ---
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/design/mediaelement_js/">提示與技巧的相關影片...請點閱!</a>
