@@ -38,8 +38,8 @@ permalink           : "/guides/game-guides_en/"
 * **DO NOT** **Send troop** to a resource tile occupied or going-to-be-occupied by a player, you are **attacking** the player if you did.
 
 ---
-### [Questions & Answers](https://rkuo2023.github.io/K75TML/design/mediaelement_js/)
-Post your requests on [K75TML pulls](https://github.com/rkuo2023/K75TML/pulls).<br>
+### [Questions & Answers](https://rkuo2023.github.io/K88OFA/design/mediaelement_js/)
+Post your requests on [K88PFA pulls](https://github.com/rkuo2023/K88PFA/pulls).<br>
 
 ---
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/design/mediaelement_js/">Check out the Videos for Tips & Tricks</a>
