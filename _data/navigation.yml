@@ -2,6 +2,10 @@
   url: "/"
   side: left
   dropdown:
+  - title: "如何開始"
+    url: "/getting-started_zh/"
+  - title: "ゲームの設置"
+    url: "/getting-started_jp/"    
   - title: "Getting Started"
     url: "/getting-started_en/"  
   - title: "Empezando"
@@ -15,16 +19,17 @@
   - title: "Beginnen"
     url: "/getting-started_nl/"     
   - title: "Başlarken"
-    url: "/getting-started_tr/"      
-  - title: "ゲームの設置"
-    url: "/getting-started_jp/" 
-  - title: "如何開始"
-    url: "/getting-started_zh/"     
+    url: "/getting-started_tr/"
+   
 
 - title: "Game Guides"
   url: "/game-guides/"
   side: left
   dropdown:
+  - title: "遊戲指南"
+    url: "/guides/game-guides_zh/"
+  - title: ゲームガイド"
+    url: "/guides/game-guides_jp/"     
   - title: "Game Guides"
     url: "/guides/game-guides_en/" 
   - title: "Guías de juego"
@@ -39,10 +44,7 @@
     url: "/guides/game-guides_nl/"    
   - title: "Oyun rehberleri"
     url: "/guides/game-guides_tr/"      
-  - title: ゲームガイド"
-    url: "/guides/game-guides_jp/" 
-  - title: "遊戲指南"
-    url: "/guides/game-guides_zh/" 
+
     
 - title: "Event Guides"
   url: "/events/ancient-gate/"
