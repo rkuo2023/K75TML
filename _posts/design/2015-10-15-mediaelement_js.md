@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Videos"
 title: "Gameplay Tips & Tricks"
-teaser: "Come to Kingdom #75, and join Tempest alliance!"
+teaser: "Come to Kingdom #88, and join Tempest alliance!"
 categories:
   - design
 tags:
@@ -21,7 +21,7 @@ image:
     thumb: K75-TML-thumb.jpg
     homepage: K75-TML-home.jpg
     caption: Photo by Arishem
-    caption_url: https://rkuo2023.github.io/K75TML/images
+    caption_url: https://rkuo2023.github.io/K88OFA/images
 mediaplayer: true
 ---
 ### PvP
