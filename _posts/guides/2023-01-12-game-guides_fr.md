@@ -38,8 +38,8 @@ permalink           : "/guides/game-guides_fr/"
 * Ne pas envoyer de troupe sur une tuile ressource occupée ou sur le point d'être occupée par un joueur, vous **attaquez** le joueur si vous l'avez fait.
 
 ---
-### [questions et réponses](https://rkuo2023.github.io/K75TML/design/mediaelement_js/)
-Postez vos demandes sur [K75TML pulls](https://github.com/rkuo2023/K75TML/pulls).<br>
+### [questions et réponses](https://rkuo2023.github.io/K88OFA/design/mediaelement_js/)
+Postez vos demandes sur [K88OFA pulls](https://github.com/rkuo2023/K88OFA/pulls).<br>
 
 ---
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/design/mediaelement_js/">Regardez les vidéos pour des trucs et astuces</a>
