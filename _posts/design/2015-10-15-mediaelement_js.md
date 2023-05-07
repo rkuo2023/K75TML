@@ -17,10 +17,10 @@ tags:
 #
 header: yes
 image:
-    title: K88-TML-title.jpg
-    thumb: K88-TML-thumb.jpg
-    homepage: K88-TML-home.jpg
-    caption: Photo by Arishem
+    title: K88-OFA-title.jpg
+    thumb: K88-OFA-thumb.jpg
+    homepage: K88-OFA-home.jpg
+    caption: One For All
     caption_url: https://rkuo2023.github.io/K88OFA/images
 mediaplayer: true
 ---
