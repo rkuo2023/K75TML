@@ -11,7 +11,7 @@ header:
 
 * Ally: **UKR, JpG, BAD, SIN, Sbh, SnS**<br>
 
-* Farm alliance: **ofa**<br>
+* Farm alliance: **ofa, o4a**<br>
 
 --- 
 ### Kingdom Rule
