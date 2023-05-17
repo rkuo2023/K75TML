@@ -9,7 +9,7 @@ header:
 ---
 ### Allies & Partners
 
-* Ally: **UKR, JpG, Eoo**<br>
+* Ally: **UKR, JpG, BAD, SIN, Sbh, SnS**<br>
 
 * Farm alliance: **ofa**<br>
 
